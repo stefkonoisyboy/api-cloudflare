@@ -7,7 +7,7 @@ workers_dev = true
 compatibility_date = "2022-03-30"
 
 kv_namespaces = [
-    { binding = "TinyFrontendKv", id = "tiny-frontend", preview_id = "81443b04b2c543f6bcd8305d23d3bf6c" }
+    { binding = "TinyFrontendKv", id = "f4dee97b4c644172ab32d7622c83a8e6", preview_id = "81443b04b2c543f6bcd8305d23d3bf6c" }
 ]
 
 [build]
